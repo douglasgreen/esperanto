@@ -1,4 +1,4 @@
-La Gettysburga Parolado de Abraham Lincoln
+# La Gettysburga Parolado de Abraham Lincoln
 
 Antaŭ kvar dek jaroj kaj sep, niaj patroj alportis sur ĉi tiun kontinenton novan nacion, konceptitan en libereco, kaj dediĉitan al la propono ke ĉiuj homoj estas kreitaj egalaj.
 
